@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from Myanmar</h3>
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/32084431/151694785-5ee8343d-3e0e-456b-81d4-2bdbc464cae9.jpg" alt="Khaing Min Tun" width="30%" height="30%" />
+
+<img src="https://user-images.githubusercontent.com/32084431/159130570-e65aaab1-ca85-4938-bf99-e007d83e5c14.jpg" alt="Khaing Min Tun" width="30%" height="30%" />
  </p>
 
 - 🔭 I’m currently working on [Dott IO](https://github.com/orgs/dottIO/teams/myan-dott)
